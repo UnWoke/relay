@@ -1,3 +1,7 @@
+I made this fork because I've had enough of the radical left forcing its ideology down my throat.
+I have removed all leftist propaganda from the project and the wiki.  I am planning to add more projects and
+also add automation. I welcome any contributions.
+
 # [Relay](https://relay.dev) [![Build Status](https://travis-ci.org/facebook/relay.svg?branch=master)](https://travis-ci.org/facebook/relay) [![npm version](https://badge.fury.io/js/react-relay.svg)](http://badge.fury.io/js/react-relay)
 
 Relay is a JavaScript framework for building data-driven React applications.
